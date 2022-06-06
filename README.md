@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
+Cancel changes
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -21,6 +21,7 @@ Step 1:
 Download or clone this repo by using the link below:
 
 https://github.com/LamNV6/task_list
+
 Step 2:
 
 Go to project root and execute the following command in console to get the required dependencies:
