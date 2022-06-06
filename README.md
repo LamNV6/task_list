@@ -16,6 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 How to Use
+
 Step 1:
 
 Download or clone this repo by using the link below:
@@ -40,16 +41,16 @@ Boilerplate Features:
 
 
 Libraries & Tools Used
- -cupertino_icons
- -firebase_auth
- -firebase_core
- -get
- -getwidget
- -persistent_bottom_nav_bar
- -cloud_firestore
- -table_calendar
- -uuid
- -intl
+ - cupertino_icons
+ - firebase_auth
+ - firebase_core
+ - get
+ - getwidget
+ - persistent_bottom_nav_bar
+ - cloud_firestore
+ - table_calendar
+ - uuid
+ - intl
 
   
   
