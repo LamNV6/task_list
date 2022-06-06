@@ -50,7 +50,6 @@ Libraries & Tools Used
  -table_calendar
  -uuid
  -intl
- -rxdart
- -get_storage
+
   
   
